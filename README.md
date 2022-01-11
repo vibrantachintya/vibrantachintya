@@ -5,7 +5,7 @@ I'm a passionate full stack web developer from India. My passion for software li
 <br/>
 <br/>
 
-🌱 I’m currently learning **Data Structures and Algorithms** and **MERN Stack**.
+🌱 I’m proficient in **Data Structures and Algorithms** and **MERN Stack**.
 
 
 ## 🚀 Languages and Tools:
