@@ -8,7 +8,7 @@ I'm a passionate full stack web developer from India. My passion for software li
 🌱 I’m proficient in **Data Structures and Algorithms** and **MERN Stack**.
 
 
-Link to my [https://achintya-portfolio.vercel.app/](Portfolio Website).
+Link to my [Portfolio Website](https://achintya-portfolio.vercel.app/).
 
 
 ## 🚀 Languages and Tools:
